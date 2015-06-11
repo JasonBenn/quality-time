@@ -1,0 +1,1 @@
+json.hangouts @hangouts, :created_at

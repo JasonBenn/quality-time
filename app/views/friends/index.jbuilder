@@ -1,0 +1,1 @@
+json.friends @friends, :id, :name, :hangout_ids
